@@ -27,3 +27,5 @@ public class esPalindromo {
 
 	   }
 }
+
+// Modificado por Diego Iglesias
